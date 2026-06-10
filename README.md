@@ -2,11 +2,13 @@
 
 ### ☁️ Aspiring Cloud & DevOps Engineer
 
-> Learning the cloud, building projects, and enjoying the process of turning ideas into working solutions.
+> Turning cloud concepts into practical projects while learning AWS, Linux, Networking, and DevOps one step at a time.
 
 I'm currently exploring AWS, Linux, Networking, and DevOps through hands-on projects and continuous learning. I enjoy understanding how systems work behind the scenes and applying that knowledge by building practical cloud-based solutions.
 
 Every project teaches me something new—whether it's configuring a Linux server, deploying applications on AWS, or troubleshooting issues along the way.
+
+I believe the best way to learn technology is by building. Every project helps me understand cloud infrastructure, server management, and real-world deployment practices a little better than yesterday.
 
 ---
 
