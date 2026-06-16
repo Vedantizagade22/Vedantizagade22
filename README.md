@@ -1,4 +1,4 @@
-# Hi, I'm Vedanti Zagade
+# Hi, I'm Vedanti Zagade 👋
 
 ### ☁️ Aspiring Cloud & DevOps Engineer
 
@@ -12,7 +12,7 @@ I believe the best way to learn technology is by building. Every project helps m
 
 ---
 
-## What I'm Working On
+## 🚀 What I'm Working On
 
 * Building cloud projects on AWS
 * Strengthening Linux and Networking fundamentals
@@ -22,23 +22,23 @@ I believe the best way to learn technology is by building. Every project helps m
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
- AWS
+☁️ AWS
 
- Linux
+🐧 Linux
 
- Networking
+🌐 Networking
 
- Git & GitHub
+🔧 Git & GitHub
 
- Nginx
+⚡ Nginx
 
- HTML • CSS • JavaScript
+💻 HTML • CSS • JavaScript
 
 ---
 
-##  Featured Project
+## 📌 Featured Project
 
 ### AWS EC2 Static Website Hosting
 
@@ -46,40 +46,40 @@ Deployed a static portfolio website on AWS EC2 using Amazon Linux 2023 and Nginx
 
 Through this project, I gained practical experience with:
 
- EC2 Instance Management
+✔ EC2 Instance Management
 
- SSH Connectivity
+✔ SSH Connectivity
 
- Linux Administration
+✔ Linux Administration
 
- Nginx Configuration
+✔ Nginx Configuration
 
- Website Hosting
+✔ Website Hosting
 
- Cloud Infrastructure Basics
+✔ Cloud Infrastructure Basics
 
- Project:
+🔗 Project:
 github.com/Vedantizagade22/aws-ec2-static-website-hosting
 
 ---
 
-##  My Goal
+## 🎯 My Goal
 
 To become a skilled Cloud & DevOps Engineer by consistently learning, building, and improving through real-world projects.
 
 ---
 
-##  Connect With Me
+## 📫 Connect With Me
 
- LinkedIn:
+💼 LinkedIn:
 linkedin.com/in/vedanti-zagade-096b6b401
 
- GitHub:
+💻 GitHub:
 github.com/Vedantizagade22
 
 ---
 
- Still learning. Still building. Still curious.
+⭐ Still learning. Still building. Still curious.
 
 
 <!--
